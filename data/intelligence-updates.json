@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01",
-  "total_entries": 7,
+  "last_updated": "2026-08-02",
+  "total_entries": 13,
   "entries": [
     {
       "id": "intel-202607-001",
@@ -117,6 +117,115 @@
       "region": "south_america",
       "related_cultures": [
         "amazonian"
+      ],
+      "hashtags": [
+        "#LANDBACK"
+      ],
+      "campaign_node": "campaign-landback"
+    },
+    {
+      "id": "intel-202608-001",
+      "title": "APIB escalates Europe advocacy for demarcation, direct climate finance, and safeguards in EU–Mercosur deal",
+      "summary": "APIB (Articulação dos Povos Indígenas do Brasil) reported a June–July advocacy mission across London, Paris, and Brussels focused on defending demarcation and protection of Indigenous territories and pushing for direct climate finance to communities. The statement also flags concern about the EU–Mercosur agreement, including lack of Free, Prior and Informed Consent (ILO 169) and the ongoing threat of anti-Indigenous measures such as the ‘marco temporal’ thesis.",
+      "source_url": "https://apiboficial.org/2026/07/16/apib-fortalece-incidencia-internacional-na-europa-em-defesa-dos-territorios-indigenas-e-da-justica-climatica/",
+      "source_name": "APIB",
+      "date_published": "2026-07-16",
+      "urgency": "high",
+      "category": "policy_change",
+      "region": "south_america",
+      "related_cultures": [
+        "amazonian"
+      ],
+      "hashtags": [
+        "#TerrasIndigenas"
+      ],
+      "campaign_node": "campaign-apib-terras"
+    },
+    {
+      "id": "intel-202608-002",
+      "title": "Solomon Islands PM urges demilitarisation and credible dialogue process for West Papua",
+      "summary": "Pacific Islands News Association reported that Solomon Islands Prime Minister Matthew Wale called on Indonesia to pursue an inclusive and credible dialogue process and consider demilitarisation measures in West Papua. The statement explicitly recognises West Papuans’ aspirations for self-determination through peaceful and lawful means.",
+      "source_url": "https://pina.com.fj/2026/07/06/pm-wale-urges-indonesia-to-pursue-dialogue-and-reduce-tensions-in-west-papua/",
+      "source_name": "Pacific Islands News Association (PINA)",
+      "date_published": "2026-07-06",
+      "urgency": "high",
+      "category": "policy_change",
+      "region": "oceania",
+      "related_cultures": [
+        "pacific"
+      ],
+      "hashtags": [
+        "#FreeWestPapua"
+      ],
+      "campaign_node": "campaign-free-west-papua"
+    },
+    {
+      "id": "intel-202608-003",
+      "title": "Mongabay: enforcement helps rainforest reclaim illegal road threatening Xingu socioenvironmental corridor",
+      "summary": "Mongabay reports that satellite imagery shows regrowth covering a 42.8 km illegal road that nearly severed the Xingu Socioenvironmental Corridor, following enforcement operations beginning in 2023. The piece warns gains are fragile as invaded Indigenous territories can face violent backlash and illegal mining may regroup.",
+      "source_url": "https://news.mongabay.com/2026/07/crackdown-lets-rainforest-reclaim-illegal-road-in-rare-win-for-the-amazon/",
+      "source_name": "Mongabay",
+      "date_published": "2026-07-02",
+      "urgency": "medium",
+      "category": "land_rights",
+      "region": "south_america",
+      "related_cultures": [
+        "amazonian"
+      ],
+      "hashtags": [
+        "#TerrasIndigenas"
+      ],
+      "campaign_node": "campaign-apib-terras"
+    },
+    {
+      "id": "intel-202608-004",
+      "title": "The Guardian: Asháninka communities say organised crime is taking Amazon border villages ‘hostage’",
+      "summary": "The Guardian reports Indigenous leaders on the Brazil–Peru border describing armed incursions into the Asháninka village of Apiwtxa in the Kampa do Rio Amônia Indigenous territory, linked to organised crime, illegal roads, logging, and drug trafficking. Leaders appealed to Brasília for security support and action against ‘virus roads’ pushing into the forest.",
+      "source_url": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
+      "source_name": "The Guardian",
+      "date_published": "2026-07-24",
+      "urgency": "high",
+      "category": "land_rights",
+      "region": "south_america",
+      "related_cultures": [
+        "amazonian"
+      ],
+      "hashtags": [
+        "#TerrasIndigenas"
+      ],
+      "campaign_node": "campaign-apib-terras"
+    },
+    {
+      "id": "intel-202608-005",
+      "title": "A Few Quiet Yarns: ‘Residency is not sovereignty’ in Aotearoa cloud debate, with Māori data sovereignty implications",
+      "summary": "A Few Quiet Yarns argues that in Aotearoa’s cloud debate, local data residency does not necessarily equal sovereignty because data can remain reachable under foreign laws. The article highlights Māori data sovereignty as a key lens, noting government guidance to consider te ao Māori (data as taonga) and mentioning Te Pā Tūwatawata as an iwi/hapū/marae-governed encrypted data storage network.",
+      "source_url": "https://www.afewquietyarns.co.nz/news/data-sovereignty-nz-cloud/",
+      "source_name": "A Few Quiet Yarns",
+      "date_published": "2026-07-21",
+      "urgency": "medium",
+      "category": "ai_data_threat",
+      "region": "oceania",
+      "related_cultures": [
+        "maori"
+      ],
+      "hashtags": [
+        "#PacificDataSovereignty",
+        "#StopDataColonialism"
+      ],
+      "campaign_node": "campaign-pacific-data-sovereignty"
+    },
+    {
+      "id": "intel-202608-006",
+      "title": "NZ: Bill proposed to exempt certain PSGEs from Māori Land Court supervisory jurisdiction (Te Ture Whenua Māori Act sections 237–245)",
+      "summary": "DLA Piper reports that the New Zealand Government introduced the Post-settlement Governance Entities (Exemption from Jurisdiction of Māori Land Court) Bill on 30 June 2026, aiming to exempt listed PSGEs from the Māori Land Court’s broad supervisory powers over certain trusts. If enacted, this would shift how governance disputes are handled (e.g., via trust deeds, internal iwi processes, other courts), strengthening PSGE autonomy while reducing access to a specialist forum.",
+      "source_url": "https://www.dlapiper.com/en-us/insights/publications/2026/07/new-bill-clarifies-maori-land-court-jurisdiction-over-psges-after-nikora-v-kruger",
+      "source_name": "DLA Piper",
+      "date_published": "2026-07-08",
+      "urgency": "high",
+      "category": "policy_change",
+      "region": "oceania",
+      "related_cultures": [
+        "maori"
       ],
       "hashtags": [
         "#LANDBACK"
