@@ -409,6 +409,14 @@
   },
   "current_headlines": [
     {
+      "title": "#international: UN Chief Calls for Fighting to Stop as Civilian Death Toll Mounts Across Gaza, Lebanon and the West Bank",
+      "link": "https://waateanews.com/2026/08/03/un-chief-calls-for-fighting-to-stop-as-civilian-death-toll-mounts-across-gaza-lebanon-and-the-west-bank/",
+      "source": "Waatea News (Māori)",
+      "source_id": "waatea",
+      "published": "2026-08-02T17:00:10+00:00",
+      "category": "palestine-indigenous-solidarity"
+    },
+    {
       "title": "Barnaby Joyce claims Australia is a ‘Christian nation’ and says many First Nations people would agree",
       "link": "https://www.theguardian.com/australia-news/2026/jul/15/barnaby-joyce-australia-christian-first-nations-ntwnfb",
       "source": "The Guardian — First Nations AU",
@@ -417,36 +425,36 @@
       "category": "palestine-indigenous-solidarity"
     },
     {
-      "title": "#First@5AM: Earthquakes, Election Countdown, Health, Sport and Te Reo – The Stories That Shaped the Weekend",
-      "link": "https://waateanews.com/2026/07/27/first5am-earthquakes-election-countdown-health-sport-and-te-reo-the-stories-that-shaped-the-weekend/",
+      "title": "#education: AI Now Common in New Zealand Classrooms, But ERO Says National Framework Is Urgently Needed",
+      "link": "https://waateanews.com/2026/08/03/ai-now-common-in-new-zealand-classrooms-but-ero-says-national-framework-is-urgently-needed/",
       "source": "Waatea News (Māori)",
       "source_id": "waatea",
-      "published": "2026-07-26T17:00:38+00:00",
-      "category": "language-revitalisation"
+      "published": "2026-08-02T17:00:06+00:00",
+      "category": "ai-sovereignty"
     },
     {
-      "title": "#tereo: Experienced Leadership Retained as Te Taura Whiri Board Reappointments Confirmed",
-      "link": "https://waateanews.com/2026/07/26/experienced-leadership-retained-as-te-taura-whiri-board-reappointments-confirmed/",
+      "title": "#national: Te Arikinui Calls for Collective Action to Protect the Taiao",
+      "link": "https://waateanews.com/2026/08/02/te-arikinui-calls-for-collective-action-to-protect-the-taiao/",
       "source": "Waatea News (Māori)",
       "source_id": "waatea",
-      "published": "2026-07-25T20:43:01+00:00",
-      "category": "language-revitalisation"
+      "published": "2026-08-01T17:00:46+00:00",
+      "category": "ai-sovereignty"
     },
     {
-      "title": "As climate change threatens their lands, Indigenous nations demand more power at the UN",
-      "link": "https://ictnews.org/news/as-climate-change-threatens-their-lands-indigenous-nations-demand-more-power-at-the-un/",
+      "title": "ICT NEWSCAST: A decade after the stand at Standing Rock, the fight for Oak Flat and more",
+      "link": "https://ictnews.org/newscasts/ict-newscast-a-decade-after-the-stand-at-standing-rock-the-fight-for-oak-flat-and-more/",
       "source": "ICT News (Indian Country Today)",
       "source_id": "ictnews",
-      "published": "2026-07-24T01:00:00+00:00",
-      "category": "climate-frontlines"
+      "published": "2026-07-31T22:10:17+00:00",
+      "category": "anti-extraction"
     },
     {
-      "title": "#national: Two Years After Abuse in Care Report, Sector Calls for Action Over Promises",
-      "link": "https://waateanews.com/2026/07/27/two-years-after-abuse-in-care-report-sector-calls-for-action-over-promises/",
-      "source": "Waatea News (Māori)",
-      "source_id": "waatea",
-      "published": "2026-07-26T17:00:29+00:00",
-      "category": "ai-sovereignty"
+      "title": "Federal appeals court: Oil pipeline trespassing on Wisconsin tribal land",
+      "link": "https://ictnews.org/news/north-central-bureau/federal-appeals-court-oil-pipeline-trespassing-on-wisconsin-tribal-land/",
+      "source": "ICT News (Indian Country Today)",
+      "source_id": "ictnews",
+      "published": "2026-07-31T20:08:20+00:00",
+      "category": "anti-extraction"
     },
     {
       "title": "Cultural Survival Member Spotlight Series: Tabitha St. Bernard-Jacobs & Adam St. Bernard Jacobs",
@@ -454,14 +462,6 @@
       "source": "Cultural Survival",
       "source_id": "cultural-survival",
       "published": "2026-07-20T12:42:43+00:00",
-      "category": "anti-extraction"
-    },
-    {
-      "title": "#hakinakina: Black Singlets Fight Back to Keep Wales Shearing Series Alive",
-      "link": "https://waateanews.com/2026/07/27/black-singlets-fight-back-to-keep-wales-shearing-series-alive/",
-      "source": "Waatea News (Māori)",
-      "source_id": "waatea",
-      "published": "2026-07-26T17:00:15+00:00",
       "category": "anti-extraction"
     },
     {
@@ -473,11 +473,19 @@
       "category": "anti-extraction"
     },
     {
-      "title": "Fired officers in Washington disproportionately land at tribal police departments",
-      "link": "https://ictnews.org/news/washington-tribal-police-hire-fired-officers-at-outsized-rates/",
-      "source": "ICT News (Indian Country Today)",
-      "source_id": "ictnews",
-      "published": "2026-07-26T12:00:00+00:00",
+      "title": "#crime: its very smelly if you ask us!",
+      "link": "https://waateanews.com/2026/08/03/police-track-down-alleged-perfume-thieves-as-hamilton-retail-crime-crackdown-continues/",
+      "source": "Waatea News (Māori)",
+      "source_id": "waatea",
+      "published": "2026-08-02T17:00:08+00:00",
+      "category": "anti-racism-policing"
+    },
+    {
+      "title": "Family of Indigenous man who died in custody launch legal action over decision not to charge police",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/27/family-of-indigenous-man-who-died-in-custody-launch-legal-action-over-decision-not-to-charge-police-ntwnfb",
+      "source": "The Guardian — First Nations AU",
+      "source_id": "first-nations-tg",
+      "published": "2026-07-27T05:10:59+00:00",
       "category": "anti-racism-policing"
     },
     {
@@ -495,17 +503,9 @@
       "source_id": "first-nations-tg",
       "published": "2026-07-13T15:00:52+00:00",
       "category": "anti-racism-policing"
-    },
-    {
-      "title": "‘We should be dead’: Perth’s Indigenous community felt ignored after alleged Invasion Day bombing attempt, inquiry told",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/13/perth-alleged-invasion-day-bombing-attempt-indigenous-community-inquiry-ntwnfb",
-      "source": "The Guardian — First Nations AU",
-      "source_id": "first-nations-tg",
-      "published": "2026-07-13T07:53:27+00:00",
-      "category": "anti-racism-policing"
     }
   ],
-  "feed_last_refreshed": "2026-07-26T21:03:24.554404+00:00",
+  "feed_last_refreshed": "2026-08-02T21:02:07.574828+00:00",
   "feed_sources": {
     "ok": [
       {
